@@ -33,6 +33,10 @@ footer {
     margin-top: auto;
 }
 
+header {
+    margin-top: 100px;
+}
+
 .embed-container { 
   position: relative; 
   padding-bottom: 56.25%; 
